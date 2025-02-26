@@ -1,0 +1,276 @@
+body{
+    margin-top: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin-bottom: 0%;
+}
+.main{
+        height: 65;
+        width: 35;
+        display: flex;
+        background-color: rgb(9, 10, 10);
+    }
+    
+.left{
+    background-color: black;
+    width: 300px;
+    height: 1000px;
+}
+.right{
+    background-color: rgb(34, 31, 31);
+    width: 1215px;
+    height:1100px;       
+}
+.side{
+    width: 250px;
+    height: 520px;
+    color: #f2f2f2;
+   
+}
+.logo{
+    padding: 10px;
+    
+}
+.home{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    background-color: rgb(50, 47, 47);
+    width: 260px;
+    margin-left: 10px;
+    line-height: 5px;
+    line-height: 0%;
+    border-radius: 5px;
+}
+
+.search{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%;
+}
+.library{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%;
+}
+.playlist{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%;
+}
+.like{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%;
+}
+.ep{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%; 
+}
+.txt{
+    padding: 20px;
+}
+.int{
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 700;
+    width: 189px;
+    margin-left: 10px;
+    line-height: 0%; 
+}
+.right-body{
+    display: flex;
+    gap: 600px;
+    padding: 10px;
+}
+.gm{
+    color: aliceblue;
+    padding: 10px;
+}
+.sg{
+    display: flex;
+}
+
+.sg1{
+    border-radius: 5px;
+    color: aliceblue;
+    display:flex;
+    gap: 50px;
+    padding: 15px;
+    background-color: #393434;
+    width: 300px;
+    height: 70px;
+    margin-left: 30px;
+}
+.sg2{
+    border-radius: 5px;
+    color: aliceblue;
+    display:flex;
+    gap: 5px;
+    padding: 15px;
+    background-color: #393434;
+    width: 300px;
+    height: 70px;
+    margin-left: 30px;
+}
+.sg3{
+    border-radius: 5px;
+    color: aliceblue;
+    display:flex;
+    gap: 5px;
+    padding: 15px;
+    background-color: #393434;
+    width: 300px;
+    height: 70px;
+    margin-left: 30px;
+}
+.sg4{
+    border-radius: 5px;
+    color: aliceblue;
+    display:flex;
+    gap: 5px;
+    padding: 15px;
+    background-color: #393434;
+    width: 300px;
+    height: 70px;
+    margin-left: 30px;
+}
+.row-one{
+    display: flex;
+}
+.card1{
+    color: #f2f2f2;
+    background-color: #393434;
+    width: 200px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.card2{
+    color: #f2f2f2;
+    background-color: #393434;
+    width: 200px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.card3{
+    color: #f2f2f2;
+    background-color: #393434;
+    width: 200px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.card4{
+    color: #f2f2f2;
+    background-color: #393434;
+    width: 200px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+
+.row-two{
+    display: flex;
+}
+.footer{
+    background-color: #242B2A;
+    width: 1110px;
+    height: 93px;
+    bottom: 0%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dream{
+    padding: 10px;
+    gap: 2px;
+    align-content: center;
+    display: inline;
+}
+
+.dream-txt {
+    margin: 0;
+    color: white;
+}
+
+.play-btn{
+    display: inline;
+    color: aliceblue;
+    justify-content: center;
+}
+
+.btn{
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    display: flex;
+}
+.line{
+    color: aliceblue;
+    display: inline;
+    display: flex;
+    height: 5px;   
+    align-items: center; 
+}
+.menu{
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.footer{
+    width: 1520px;
+}
+
+
+.hold-on{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
